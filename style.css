@@ -1,0 +1,151 @@
+html, body{
+    margin: 0px;
+    height: 100%;
+    overflow-x: hidden;
+}
+
+.plx-image1{
+    background-image: url(ramen\ copy.jpg);
+    text-align: center;
+    width: 100%;
+    height: 900px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.container{
+    position: absolute;
+    width: auto;
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0;
+}
+
+.topnav a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin: 10px;
+    ;
+
+}
+
+.topnav a:hover{
+    background-color:#ddd;
+    color: black;
+}
+
+.logo-img .logo{
+    height: 30px;
+    overflow: hidden;
+    padding: 0;
+    margin-top: -6px;
+
+}
+
+.smbuttons{
+    margin-left: 1100px;
+}
+
+.fab{
+    padding: 20px;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #f2b9ae;
+}
+
+.fab:hover {
+    opacity: 0.7;
+}
+
+.text1{
+    font-size: 110px;
+    padding-top: 400px;
+    font-family: "Libre Baskerville", serif;
+    color: #FFFFFF;
+    -webkit-text-fill-color: rgba (255, 255, 255, 1);
+}
+
+.text2{
+    font-size: 40px;
+    color: white;
+    margin: 0 0 20px 0;
+    font-family: "Libre Baskerville", serif;
+}
+
+.content-1{
+    height: auto;
+    width: 100%;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+.text3{
+    font-family: "Libre Baskerville", serif;
+    font-size: 20px;
+    background-color: #f2f2f2;
+    padding-top: 50px;
+}
+
+.text4{
+    width: 70%;
+    margin-left: 15%;
+    padding: 30px 0 80px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: #f2f2f2;
+    letter-spacing: 0.1em;
+    line-height: 1.8;
+}
+
+.plx-image2{
+    background-image: url(kobe-beef-teppanyaki-kobe-wagyu-japan-6.jpg);
+    text-align: center;
+    width: 100%;
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content-2{
+    height: auto;
+    width: 100%;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+.text5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    padding: 80px 0 80px 0;
+    letter-spacing: 0.5;
+}
+    
+.plx-image3{
+    background-image: url(19264488_10211647515635887_6610676120600860251_o.jpg);
+    text-align: center;
+    width: 100%;
+    height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
